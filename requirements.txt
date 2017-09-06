@@ -1,0 +1,4 @@
+requests==2.7.0
+Flask==0.12.2
+gunicorn==0.14.2
+flask-ask==0.9.6
