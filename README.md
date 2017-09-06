@@ -8,7 +8,7 @@ To get this working, you'll need to:
 
 1. Set up an Amazon & Alexa dev account.
 2. Rename `.env_example` to `.env` and replace the values with your SSID & wifi password.
-3. Deploy this back jackson to Heroku.
+3. Deploy this bad jackson to Heroku.
 4. Create a new Alexa Skill (type: Custom).
 5. In the Interaction Model tab, copy & paste the text from `IntentSchema.json` & `SampleUtterances.txt` into the first and third text areas.
 6. In the Configuration tab, paste your heroku url (must be https)
